@@ -10,4 +10,4 @@ So the all possible combinations of (R, G, B) channel present in the image are 2
 The visual perception of the human eye is taken as advantage by the K-Means clustering .it reduces the size of the image or compresses 
 the image by reducing the number of the colours. Colours with different intensity values of (R, G, B) seems similar to human eye,
 Hence K-Means clustering forms the clusters with the similar colours.so K-Means can club similar colors into a cluster and represent by 
-a centroid point that almost has same resemblance to the human eye
+a centroid point that almost has same resemblance to the human eye.
